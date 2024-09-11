@@ -1,11 +1,5 @@
 ----
 
-<a href="http://twitter.com/mmiuwu_">
-  <img height="20" src="https://img.shields.io/twitter/follow/charindo?label=Twitter&logo=twitter&style=flat" />
-</a>
-
-----
-
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4rindo&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=react" />
 
