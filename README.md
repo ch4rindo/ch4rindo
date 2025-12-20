@@ -11,19 +11,19 @@
   <h3>🚀 My Tech Stack</h3>
 
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=py,java,js,php,cs,cpp" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,php,cs,cpp,rust,kotlin" alt="Languages" /><br>
 
   <b>Frameworks & Runtime</b><br>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,npm,dotnet,unity,discord" alt="Frameworks" /><br>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,npm,dotnet,unity,discord" alt="Frameworks" /><br>
 
   <b>Tools & DevOps</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Tools" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,mysql,redis,postgresql" alt="Tools" /><br>
 
   <b>IDEs & Editors</b><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,phpstorm" alt="IDEs" /><br>
 
   <b>Operating Systems</b><br>
-  <img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="OS" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple,ubuntu" alt="OS" />
 
   <br><br>
 
