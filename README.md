@@ -11,7 +11,7 @@
   <h3>🚀 My Tech Stack</h3>
 
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=py,java,js,php" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,cs,cpp" alt="Languages" /><br>
 
   <b>Frameworks & Runtime</b><br>
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,npm,dotnet,unity,discord" alt="Frameworks" /><br>
