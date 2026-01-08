@@ -25,11 +25,6 @@
   <b>Operating Systems</b><br>
   <img src="https://skillicons.dev/icons?i=linux,windows,apple,ubuntu" alt="OS" />
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ch4rindo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4rindo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="langs" />
-
 </div>
 
 ---
