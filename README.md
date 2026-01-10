@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=py,java,js,ts,php,cs,cpp,rust,kotlin" alt="Languages" /><br>
 
   <b>Frameworks & Runtime</b><br>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,npm,dotnet,unity,discord" alt="Frameworks" /><br>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,npm,dotnet,unity,discord,vite,tailwind" alt="Frameworks" /><br>
 
   <b>Tools & DevOps</b><br>
   <img src="https://skillicons.dev/icons?i=docker,git,github,mysql,redis,postgresql" alt="Tools" /><br>
